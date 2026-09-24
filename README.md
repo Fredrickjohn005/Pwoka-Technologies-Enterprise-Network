@@ -41,13 +41,13 @@ Branch Office
 
 Project Files
 
-- "Packet-Tracer/" — Cisco Packet Tracer project
-- "Documentation/" — Project report and design proposal
-- "Presentation/" — Project presentation
-- "Screenshots/" — Network topology and verification evidence
+- "Packet-Tracer/"  Cisco Packet Tracer project
+- "Documentation/"  Project report and design proposal
+- "Presentation/"   Project presentation
+- "Screenshots/"    Network topology and verification evidence
 
 Author
 
 Fredrick Pwoka
 
-CCNA 3 — Enterprise Networking
+CCNA 3  Enterprise Networking
